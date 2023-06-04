@@ -1,7 +1,3 @@
-# final-project-mustafa22n
-final-project-mustafa22n created by GitHub Classroom
-
-
 
 <!DOCTYPE html> <html> <body> <header> <h1>Jarir Bookstore Mobile Application Project</h1> </header> <section> <h2>Introduction</h2> <p>Jarir Bookstore is a popular retail chain in the [Middle East] that offers a wide range of products, including books, electronics, and office supplies. The [Jarir Bookstore] [mobile app] is an essential tool for the company as it allows customers to browse and purchase products from their mobile devices.</p>
   </section>
